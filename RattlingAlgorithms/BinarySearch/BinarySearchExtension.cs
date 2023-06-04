@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 namespace RattlingAlgorithms.BinarySearch
 {
-    public static class BinarySearch
+    public static class BinarySearchExtension
     {
-        public static BinarySearch<T> CustomBinarySearch<T>(this IList<T> list, T wantedElement) where T : IComparable<T> 
+        public static BinarySearchInfo<T> CustomBinarySearch<T>(this IList<T> list, T wantedElement) where T : IComparable<T> 
         {
-            var binarySearchInfo = new BinarySearch<T>();
+            var binarySearchInfo = new BinarySearchInfo<T>();
             binarySearchInfo.WantedElement = wantedElement;
             var low = 0;
             var high = list.Count - 1;

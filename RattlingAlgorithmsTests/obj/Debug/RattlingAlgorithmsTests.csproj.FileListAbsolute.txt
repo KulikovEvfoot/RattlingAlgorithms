@@ -9,3 +9,14 @@ D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\Rattl
 D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.csproj.CopyComplete
 D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.dll
 D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.pdb
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\bin\Debug\RattlingAlgorithmsTests.dll
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\bin\Debug\RattlingAlgorithmsTests.pdb
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\bin\Debug\nunit.framework.dll
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\bin\Debug\RattlingAlgorithms.exe
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\bin\Debug\RattlingAlgorithms.pdb
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\bin\Debug\nunit.framework.xml
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.csproj.AssemblyReference.cache
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.csproj.CoreCompileInputs.cache
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.csproj.CopyComplete
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.dll
+D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithmsTests\obj\Debug\RattlingAlgorithmsTests.pdb

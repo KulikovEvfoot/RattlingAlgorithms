@@ -8,7 +8,7 @@ namespace RattlingAlgorithmsTests.BinarySearch
     public class BinarySearchTests
     {
         [Test]
-        public void BinarySearchTest1()
+        public void BinarySearchTestInt()
         {
             var newList = new List<int>() { 1, 3, 5, 6, 12, 77 };
             var info = newList.CustomBinarySearch(3);
@@ -16,7 +16,7 @@ namespace RattlingAlgorithmsTests.BinarySearch
         }
         
         [Test]
-        public void BinarySearchTest2()
+        public void BinarySearchTestDouble()
         {
             var newList = new [] { 55.04f, 97, 105, 111.4f, 200, 488, 10000.55, 11111 };
             var info = newList.CustomBinarySearch(11111);

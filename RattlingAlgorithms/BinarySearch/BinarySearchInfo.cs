@@ -1,6 +1,6 @@
 ﻿namespace RattlingAlgorithms.BinarySearch
 {
-    public class BinarySearch<T>
+    public class BinarySearchInfo<T>
     {
         public bool HasWantedElementInList;
         public T WantedElement;
