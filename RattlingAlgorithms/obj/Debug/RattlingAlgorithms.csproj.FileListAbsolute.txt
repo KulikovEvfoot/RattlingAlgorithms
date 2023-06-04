@@ -1,0 +1,6 @@
+D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithms\bin\Debug\RattlingAlgorithms.exe
+D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithms\bin\Debug\RattlingAlgorithms.pdb
+D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.csproj.AssemblyReference.cache
+D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.csproj.CoreCompileInputs.cache
+D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.exe
+D:\RattlingAlgorithms\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.pdb
