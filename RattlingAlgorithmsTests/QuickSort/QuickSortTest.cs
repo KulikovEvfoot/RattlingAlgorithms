@@ -1,16 +1,16 @@
 ﻿using NUnit.Framework;
-using RattlingAlgorithms.SelectionSort;
+using RattlingAlgorithms.QuickSort;
 
-namespace RattlingAlgorithmsTests.SelectionSort
+namespace RattlingAlgorithmsTests.QuickSort
 {
     [TestFixture]
-    public class SelectionSortTests
+    public class QuickSortTest
     {
         [Test]
-        public void SelectionSortTestInt()
+        public void QuickSortTestInt()
         {
             var list = new [] { 11, 3, 45, 456, 11112, 77 };
-            list.CustomSelectionSort();
+            list.CustomQuickSort(0, list.Length - 1);
             Assert.AreEqual(list[0], 3);
             Assert.AreEqual(list[1], 11);
             Assert.AreEqual(list[2], 45);
@@ -20,10 +20,10 @@ namespace RattlingAlgorithmsTests.SelectionSort
         }
         
         [Test]
-        public void SelectionSortTestDouble()
+        public void QuickSortTestDouble()
         {
             var list = new [] { 11.4, 3, 45.088f, 456, 123123131231, 77.44 };
-            list.CustomSelectionSort();
+            list.CustomQuickSort(0, list.Length - 1);
             Assert.AreEqual(list[0], 3);
             Assert.AreEqual(list[1], 11.4);
             Assert.AreEqual(list[2], 45.088f);
