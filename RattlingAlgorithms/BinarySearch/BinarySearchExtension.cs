@@ -8,7 +8,7 @@ namespace RattlingAlgorithms.BinarySearch
         public static BinarySearchInfo<T> CustomBinarySearch<T>(this IList<T> list, T wantedElement) where T : IComparable<T> 
         {
             var binarySearchInfo = new BinarySearchInfo<T>();
-            binarySearchInfo.WantedElement = wantedElement;
+            binarySearchInfo.SearchableItem = wantedElement;
             var low = 0;
             var high = list.Count - 1;
             var iterationCount = 0;
@@ -23,8 +23,8 @@ namespace RattlingAlgorithms.BinarySearch
                 
                 if (compare == 0)
                 {
-                    binarySearchInfo.WantedElementId = mid;
-                    binarySearchInfo.HasWantedElementInList = true;
+                    binarySearchInfo.SearchableItemId = mid;
+                    binarySearchInfo.HasSearchableItemInList = true;
                     binarySearchInfo.NumberOfIterationsToSearch = iterationCount;
                     return binarySearchInfo;
                 }
@@ -41,7 +41,7 @@ namespace RattlingAlgorithms.BinarySearch
                 iterationCount++;
             }
 
-            binarySearchInfo.HasWantedElementInList = false;
+            binarySearchInfo.HasSearchableItemInList = false;
             return binarySearchInfo;
         }
     }

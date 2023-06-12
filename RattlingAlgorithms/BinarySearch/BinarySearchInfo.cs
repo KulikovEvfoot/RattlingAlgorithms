@@ -2,9 +2,9 @@
 {
     public class BinarySearchInfo<T>
     {
-        public bool HasWantedElementInList;
-        public T WantedElement;
-        public int WantedElementId;
+        public bool HasSearchableItemInList;
+        public T SearchableItem;
+        public int SearchableItemId;
         public int NumberOfIterationsToSearch;
     }
 }

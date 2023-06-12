@@ -41,6 +41,9 @@
     <ItemGroup>
         <Compile Include="BinarySearch\BinarySearchExtension.cs" />
         <Compile Include="BinarySearch\BinarySearchInfo.cs" />
+        <Compile Include="BreadthFirstSearch\BreadthFirstSearch.cs" />
+        <Compile Include="BreadthFirstSearch\BreadthFirstSearchInfo.cs" />
+        <Compile Include="BreadthFirstSearch\ISearchItem.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="QuickSort\QuickSortExtension.cs" />
