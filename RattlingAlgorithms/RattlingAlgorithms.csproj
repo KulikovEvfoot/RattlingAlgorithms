@@ -44,6 +44,8 @@
         <Compile Include="BreadthFirstSearch\BreadthFirstSearch.cs" />
         <Compile Include="BreadthFirstSearch\BreadthFirstSearchInfo.cs" />
         <Compile Include="BreadthFirstSearch\ISearchItem.cs" />
+        <Compile Include="DijkstrasAlgorithm\DijkstrasAlgorithm.cs" />
+        <Compile Include="DijkstrasAlgorithm\DijkstrasAlgorithmInfo.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="QuickSort\QuickSortExtension.cs" />

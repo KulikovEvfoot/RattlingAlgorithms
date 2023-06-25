@@ -26,6 +26,7 @@ namespace RattlingAlgorithms.BreadthFirstSearch
                 }
                 
                 searched.Add(item);
+                
                 foreach (var searchable in item.Searchables)
                 {
                     searchQueue.Enqueue(searchable);

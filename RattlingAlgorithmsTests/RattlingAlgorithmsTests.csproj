@@ -45,6 +45,7 @@
         <Compile Include="BinarySearch\BinarySearchTests.cs" />
         <Compile Include="BreadthFirstSearch\BreadthFirstSearchTest.cs" />
         <Compile Include="BreadthFirstSearch\SearchItem.cs" />
+        <Compile Include="DijkstrasAlgorithm\DijkstrasAlgorithmTest.cs" />
         <Compile Include="QuickSort\QuickSortTest.cs" />
         <Compile Include="SelectionSort\SelectionSortTests.cs" />
         <Compile Include="Tests.cs" />
