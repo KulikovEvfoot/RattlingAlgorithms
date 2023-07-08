@@ -15,7 +15,6 @@ namespace RattlingAlgorithms.BinarySearch
 
             while (low <= high)
             {
-                
                 int mid = (low + high) / 2;
                 var guess = list[mid];
 

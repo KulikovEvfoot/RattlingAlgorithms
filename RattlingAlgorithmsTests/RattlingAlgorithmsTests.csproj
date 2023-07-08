@@ -46,6 +46,8 @@
         <Compile Include="BreadthFirstSearch\BreadthFirstSearchTest.cs" />
         <Compile Include="BreadthFirstSearch\SearchItem.cs" />
         <Compile Include="DijkstrasAlgorithm\DijkstrasAlgorithmTest.cs" />
+        <Compile Include="DynamicProgramming\BackpackChallengeTest.cs" />
+        <Compile Include="DynamicProgramming\BackpackItem.cs" />
         <Compile Include="QuickSort\QuickSortTest.cs" />
         <Compile Include="SelectionSort\SelectionSortTests.cs" />
         <Compile Include="Tests.cs" />

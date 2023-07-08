@@ -10,3 +10,10 @@ D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgo
 D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.pdb
 D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithms\bin\Debug\RattlingAlgorithms.exe
 D:\LearningProjects\RattlingAlgorithms\RattlingAlgorithms\bin\Debug\RattlingAlgorithms.pdb
+D:\Projects\c#\RattlingAlgorithms\RattlingAlgorithms\bin\Debug\RattlingAlgorithms.exe
+D:\Projects\c#\RattlingAlgorithms\RattlingAlgorithms\bin\Debug\RattlingAlgorithms.pdb
+D:\Projects\c#\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.csproj.AssemblyReference.cache
+D:\Projects\c#\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Projects\c#\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.exe
+D:\Projects\c#\RattlingAlgorithms\RattlingAlgorithms\obj\Debug\RattlingAlgorithms.pdb
